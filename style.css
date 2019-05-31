@@ -98,3 +98,31 @@ input {
 .email__input {
     text-transform: lowercase;
 }
+
+table {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #000;
+}
+
+
+
+p::first-letter {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+}
+
+tr:first-child {
+    height: 50px;
+}
+
+.img_border:hover {
+
+    border: none;
+
+}
