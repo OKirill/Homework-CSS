@@ -139,3 +139,7 @@ textarea:focus {
 .goods_headers_mario {
     text-transform: capitalize;
 }
+
+.date__input {
+    text-transform: none;
+}
