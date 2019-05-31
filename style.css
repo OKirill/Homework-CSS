@@ -124,7 +124,7 @@ tr:first-child {
 }
 
 .img_border:hover {
-    border: hidden;
+    border: hidden; /* или border-color:transparent; */
     margin: 2px;
 }
 
