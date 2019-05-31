@@ -18,10 +18,23 @@ body {
     margin-right: 5px;
     padding: 3px;
 
+
+}
+
+.img__logo {
+    width: 120px;
+    height: 32px;
+    float: left;
+
+
 }
 
 .menu__links {
     text-decoration: none;
+}
+
+.menu__links:hover {
+    color: red;
 }
 
 .goods_headers {
